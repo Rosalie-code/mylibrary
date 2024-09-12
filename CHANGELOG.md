@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v1.0.0 (2024-09-12)
+
+### Breaking
+
+* feat: update the code
+
+BREAKING CHANGE: hello_world2 and hello_world3 have been removed ([`b7418c0`](https://github.com/Rosalie-code/mylibrary/commit/b7418c075875a16b0de11b325599e21ddc5b5644))
+
 ## v0.2.0 (2024-09-12)
 
 ### Feature
