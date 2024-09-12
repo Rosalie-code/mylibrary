@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.2.0 (2024-09-12)
+
+### Feature
+
+* feat(mylibrary): add hello_world3 function ([`0e6fc91`](https://github.com/Rosalie-code/mylibrary/commit/0e6fc91c5d9c8aabd68827439a5cacfaf5fab654))
+
 ## v0.1.0 (2024-09-12)
 
 ### Feature
