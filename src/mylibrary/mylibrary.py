@@ -1,7 +1,4 @@
 def hello_world():
+ """Returns the string Hello World"""
  return "Hello World"
-def hello_world_2():
- return "Hello World"
-def hello_world_3():
- return "Hello WOrld"
 
